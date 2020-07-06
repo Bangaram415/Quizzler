@@ -8,5 +8,5 @@
 
 # Display Mode
 
-< img src "images/1.png" width="450" height="600">
+<img src ="images/1.png" width="450" height="600">
 
